@@ -74,11 +74,7 @@ Here are a few I’m proud of (with links & short blurbs):
 
 ---
 
-## 🧠 Random / Fun Extras
-
-- ⚡ *Quote of the day* (you can change this daily)  
-- 🧩 *Mini “did you know” fact* (something unique about you)  
-- 🎵 *What I’m currently listening to / working on* (optional SVG)  
+ 
 
 ---
 
