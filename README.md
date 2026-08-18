@@ -1,81 +1,145 @@
-<!-- Banner / Animated Header (optional) -->
+<h1 align="center">Malik</h1>
+
 <p align="center">
-  <img width="600" src="https://capsule-render.vercel.app/api?type=waving&text=Malik%20The%20Dev&fontColor=FFFFFF&animation=fadeIn&color=gradient&height=120" alt="banner" />
+  Founder & CEO @ CielPM · Building <a href="https://glutt.cielpm.com/">Glutt</a> · Telora Fellow S26
 </p>
 
-<h1 align="center">Hey, I’m Malik 👋</h1>
-<p align="center">Montreal-based dev building things that matter ✨</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/malikthedev">LinkedIn</a>
+  ·
+  <a href="https://malikmakes.com/">malikmakes.com</a>
+</p>
 
 ---
 
-## 🧩 About Me
+## About
 
-- 🎯 **Passion:** Using code for community, culture, and cool side-projects  
-- 📚 **Background:** CS student with interests in AI, web, and design  
-- 💡 **Values:** Empathy, creative problem solving, giving back  
-- ⚡ **Fun Fact:** I once built a small dating app just for my campus, as a side project  
+I'm a founder and engineer currently building **Glutt**, an AI cooking assistant designed to be there while you actually cook — not just give you another recipe to read.
+
+Glutt lets people import recipes from TikTok, Instagram, YouTube, websites, and screenshots, then turns them into interactive cooking sessions with **real-time voice guidance, contextual Q&A, substitutions, timing help, and step-by-step coaching**.
+
+I'm especially interested in products where AI moves beyond a chat box and becomes part of a real-world workflow: **voice agents, multimodal systems, consumer AI, computer vision, automation, and new human-computer interfaces**.
+
+Originally from Montreal, now building full-time in Miami.
 
 ---
 
-## 🛠️ Skills & Tools
+## Currently
 
-Here are some languages, frameworks, and tools I work with:
+- Building **Glutt** at **CielPM, Inc.**
+- Designing real-time AI cooking experiences around voice, context, memory, and vision
+- Prototyping multimodal and wearable interfaces for hands-free AI assistance
+- Shipping across native iOS, backend infrastructure, AI systems, and product
+- Working directly with users to figure out where AI creates real utility instead of novelty
+
+---
+
+## Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <!-- Add more as you like -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="38" height="38" alt="Swift" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
 </p>
+
+**Working with:** SwiftUI, SwiftData, WebRTC, realtime voice AI, multimodal models, vector search, Supabase, Vercel, PostHog, and consumer iOS infrastructure.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Work
 
-Here are a few I’m proud of (with links & short blurbs):
+### Glutt
+**AI cooking assistant / CielPM**
 
-| Project | What It Does | Why It Matters |
-|---|---|---|
-| **AniBeadz** | Volunteer-built site for an Indigenous beadwork business | Blending tech + social good |
-| **StyleMate** | AI fashion app using vector embeddings | Because style + code is dope |
-| **HopInLove** | Dating app just for Montreal students | Local, niche, fun to build |
-| **Sentinel** | Hackathon winner: detects accidents via traffic cams | Real-time impact + computer vision |
-| **…more** | (See pinned) | I experiment often — some are weird, some are gems |
+A live AI chef built around the actual cooking experience.
+
+Instead of stopping at recipe generation, Glutt helps once your hands are dirty: it understands the recipe you're making, walks you through it, answers questions mid-cook, suggests substitutions, keeps track of timing, and adapts when things don't go according to plan.
+
+The broader goal is to make cooking software feel less like a database and more like **having someone competent in the kitchen with you**.
+
+[Website →](https://glutt.cielpm.com/) · [Repository →](https://github.com/Malik1234567891011/Glutt)
+
+---
+
+### Sentinel
+**Computer vision / Hackathon winner**
+
+Built a computer-vision system for detecting traffic accidents from existing camera feeds, focused on turning passive infrastructure into real-time incident detection.
+
+---
+
+### StyleMate
+**AI fashion discovery**
+
+Built an AI fashion product using vector embeddings to understand visual and stylistic similarity rather than relying entirely on traditional filters and categories.
+
+---
+
+### HopInLove
+**Consumer social product**
+
+Built a dating platform specifically for Montreal students — an early experiment in building, distributing, and designing a consumer product for a tightly defined community.
+
+---
 
 <details>
-<summary>🔍 More Projects →</summary>
-- Lockscape — a security / puzzle game (Three.js)  
-- Budget API — backend for tracking spending  
-- Game experiments — Pong AI, Breakout clones, custom rendering  
-- And a few weird side-projects nobody asked for 😄  
+<summary><strong>Other experiments</strong></summary>
+
+<br>
+
+Over the years I've built a lot of smaller things while learning new technologies, including:
+
+- Three.js games and interactive experiences
+- Chrome extensions
+- AI study tools
+- Backend APIs
+- Computer-vision experiments
+- Automation and data tooling
+- Small consumer apps that probably should not have existed
+
+Most of my repositories are experiments from learning by building.
+
 </details>
 
 ---
 
-## 🎯 What I'm Working On / Goals
+## What I'm Interested In
 
-- Building HopInLove with partners (mobile + web app)  
-- Diving deeper into ML pipelines & embeddings  
-- Creating a tool or side product that helps someone (non-technical)  
-- Land a meaningful internship in Summer 2026  
+I'm most interested in the point where **better models create entirely new product experiences**, especially:
 
----
+- Realtime voice agents
+- Multimodal AI
+- Consumer AI
+- Computer vision
+- AI-native mobile interfaces
+- Agents that interact with existing software and workflows
+- Wearables and ambient computing
+- Products that turn model capability into measurable real-world value
 
-## 💬 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?logo=google-chrome&logoColor=white)](https://malikmakes.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malik.shourbaji@gmail.com)
-
----
-
- 
+I like building quickly, putting things in front of people, and figuring out what survives contact with actual users.
 
 ---
 
-Thanks for dropping by — you’re welcome to explore my code, open an issue just to say hi, or suggest collabs 😎  
+<p align="center">
+  <a href="https://www.linkedin.com/in/malikthedev">LinkedIn</a>
+  ·
+  <a href="https://malikmakes.com/">Portfolio</a>
+  ·
+  <a href="https://glutt.cielpm.com/">Glutt</a>
+</p>
